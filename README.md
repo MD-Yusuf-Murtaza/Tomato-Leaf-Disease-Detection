@@ -23,6 +23,7 @@ It leverages a **pre-trained ResNet50** model, fine-tuned on the **PlantVillage 
 * **Classes:** Multiple disease categories + healthy leaves.
 * **Preprocessing:**
 
+
   * Data cleaning and verification
   * Splitting into **Train (80%)**, **Validation (20%)**, and **Test (5 images of each class)**
   * Normalization to ResNet50 standards
@@ -31,8 +32,10 @@ It leverages a **pre-trained ResNet50** model, fine-tuned on the **PlantVillage 
 
 ## Results
 
-* **Training Accuracy:** \~98%
+* **Training Accuracy:** \~99%
 * **Validation Accuracy:** \~96%
+* **Tesing Accuracy:** \~98%
+* **Confusion Matrix of Test data prediction**<img width="810" height="753" alt="download" src="https://github.com/user-attachments/assets/29690051-7646-48a1-a6be-f9ef11028bee" />
 * **Loss & Accuracy Curves:** Included in the notebook.
 * **Sample Prediction Visualization:** Demonstrates correct classification of tomato leaf diseases.
 
