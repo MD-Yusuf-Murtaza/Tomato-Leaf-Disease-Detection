@@ -35,7 +35,7 @@ It leverages a **pre-trained ResNet50** model, fine-tuned on the **PlantVillage 
 * **Training Accuracy:** \~99%
 * **Validation Accuracy:** \~96%
 * **Tesing Accuracy:** \~98%
-* **Confusion Matrix of Test data prediction**<img width="810" height="753" alt="download" src="https://github.com/user-attachments/assets/29690051-7646-48a1-a6be-f9ef11028bee" />
+* **Confusion Matrix of Test data prediction**<img width="810" height="753" alt="931ada48-d6d4-4d9f-87c4-5eda8c30677e" src="https://github.com/user-attachments/assets/857962d2-a838-433d-b574-12a4c045d12c" />
 * **Loss & Accuracy Curves:** Included in the notebook.
 * **Sample Prediction Visualization:** Demonstrates correct classification of tomato leaf diseases.
 
